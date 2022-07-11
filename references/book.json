@@ -1,0 +1,43 @@
+{
+    "title": "Build Your Own Website",
+    "subtitle": "A Comic Guide to HTML, CSS, and WordPress",
+    "authors": [
+        "Nate Cooper"
+    ],
+    "publishedDate": "2014",
+    "description": "An illustrated introduction to the basics of creating a website. Join Kim and her little dog Tofu as she learns HTML, the language of web pages, and CSS, the language used to style web pages, from the Web Guru and Glinda, the Good Witch of CSS.",
+    "industryIdentifiers": [
+        {
+            "type": "ISBN_10",
+            "identifier": "1593276060"
+        },
+        {
+            "type": "ISBN_13",
+            "identifier": "9781593276065"
+        }
+    ],
+    "readingModes": {
+        "text": false,
+        "image": false
+    },
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+        "Web site development"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+    },
+    "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ZKHlvAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ZKHlvAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=ZKHlvAEACAAJ&dq=isbn:1593276064&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.co.in/books?id=ZKHlvAEACAAJ&dq=isbn:1593276064&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Build_Your_Own_Website.html?hl=&id=ZKHlvAEACAAJ"
+}
