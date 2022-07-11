@@ -2,12 +2,12 @@
 This is a Flask Book Inventory Management designed using the Google Book API.
 
 In the <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/tree/main/code"><b>code</b></a> folder:
-- The <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/tree/main/code/models">models</a> folder which stores the Database Model related code for book, store and user.
-- The <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/tree/main/code/resources">resources</a> folder which stores the book, store and user code related to the <b>GET</b>, <b>POST</b>, <b>PUT</b> and <b>DELETE</b> operations for the API.
+- The <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/tree/main/code/models">models</a> folder stores the Database Model related code for book, store and user.
+- The <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/tree/main/code/resources">resources</a> folder stores the book, store and user code related to the <b>GET</b>, <b>POST</b>, <b>PUT</b> and <b>DELETE</b> operations for the API.
   - The <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/blob/main/code/resources/book.py">book.py</a> file in this resources folder has the code that retrieves data from the <b>Google Book API</b>. <i>(It is used for Retrieving Details of a Book by its ISBN number through a URL)</i>
 - The <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/blob/main/code/app.py">app.py</a> file is where the URLs for performing the 4 RESTful operations are defined.
 - The <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/blob/main/code/security.py">security.py</a> file is used to provide Authentication and Validation to the <b>UserModel</b>.
-- The <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/blob/main/code/db.py">db.py</a> file is used to Implement SQLAlchemy through the <b>db</b> variable
+- The <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/blob/main/code/db.py">db.py</a> file is used to Implement SQLAlchemy through the <b>db</b> variable.
 - The <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/blob/main/code/data.db">data.db</a> file stores all the Database Tables when <b>app.py</b> is executed.
 
 <br>
