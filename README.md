@@ -13,9 +13,9 @@ In the <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleB
 <br>
 
 Steps to Execute the Code:
-- Run <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/blob/main/requirements.txt">pip install -r requirements.txt</a> <i>(Preferably inside a Virtual Environment)</i>
+- Run `pip install -r requirements.txt` <i>(Preferably inside a Virtual Environment)</i>
 - Delete the <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/blob/main/code/data.db">data.db</a> file.
-- Move into the <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/tree/main/code">code</a> folder and Run the command, <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/blob/main/code/app.py">python app.py</a> to run the <b>Flask App</b>.
+- Move into the <a href="https://github.com/n-rohit/Flask-BookInventoryManagement_GoogleBookAPI/tree/main/code">code</a> folder and Run the command, `python app.py` to run the <b>Flask App</b>.
 - Open <a href="https://www.postman.com/">Postman</a> while the server is running on <b>http://127.0.0.1:8000/</b> and perform the <b>GET</b>, <b>POST</b>, <b>PUT</b> and <b>DELETE</b> operations.
 
 <br>
